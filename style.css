@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.btn-container {
+    display: flex;
+    justify-content: center;
+    
+}
+.btn{
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+    margin: auto;
+    border: 5px solid black;
+    margin: 2.5rem;
+}
+.red {
+    background-color: red;
+   
+}
+.violet {
+  background-color: violet;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.flash {
+    background-color: white;
+}
